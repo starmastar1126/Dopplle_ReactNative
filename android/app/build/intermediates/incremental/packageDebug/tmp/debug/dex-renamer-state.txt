@@ -1,0 +1,4 @@
+#Thu Nov 07 21:43:40 CST 2019
+base.0=D\:\\Star.Master\\development\\workspace\\mobiles\\react_native\\eduard_facebook_login_firebase\\references\\dopplle\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex

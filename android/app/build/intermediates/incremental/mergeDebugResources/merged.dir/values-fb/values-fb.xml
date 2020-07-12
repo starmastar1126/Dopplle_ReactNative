@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string gender="unknown" name="com_facebook_device_auth_instructions">[Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.#f385b026d401b4f2ebba4fa58eb02bd1:1]</string>
+    <string gender="unknown" name="com_facebook_image_download_unknown_error">[Unexpected error while downloading an image.#2dfdf2d48a77abf43d908b90923ae40d:1]</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_message">[WebView login requires INTERNET permission#5af2c799fb55dbddf089812c3015da84:1]</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_title">[AndroidManifest Error#f2ec594df57a19e100f2caae5b6437d6:1]</string>
+    <string gender="unknown" name="com_facebook_like_button_liked">[Liked#d03981fda59d07c6ca6766e0f6223789:1]</string>
+    <string gender="unknown" name="com_facebook_like_button_not_liked">[Like#67dcc2555de7fc2011c07c6e2f63262f:1]</string>
+    <string gender="unknown" name="com_facebook_loading">[Loading…#9a381f96b6d4c38b87cdd9a3904288e2:1]</string>
+    <string gender="unknown" name="com_facebook_loginview_cancel_action">[Cancel#305cde2ea6ca6f42b70c9b8cb011eb18:1]</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button">[Log in#c09b8f17b02419c19f0a04635c2a03e6:1]</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">[Continue with Facebook#6603f178951b1c9aad97c0b4efcca8ad:1]</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_long">[Log in with Facebook#a80f568be3fdbf9785bcef9ac4737acb:1]</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_action">[Log out#40015f6668149f5fb4345c3889d4782b:1]</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_button">[Log out#40015f6668149f5fb4345c3889d4782b:1]</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_as">[Logged in as: %1$s#ec184a80504a45f8dba52fea6a489d2c:1]</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_using_facebook">[Logged in using Facebook#e30f13ae8b91173a75f7497d9524ede2:1]</string>
+    <string gender="unknown" name="com_facebook_send_button_text">[Send#97706c0b4976bdbf3dd4f2d77c1700fc:1]</string>
+    <string gender="unknown" name="com_facebook_share_button_text">[Share#c28c908c367822ab654cc610b9b2c1f3:1]</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions">[To connect your account, open the Facebook app on your mobile device and check for notifications.#5e43f4600696fd5ac07c38e918d28316:1]</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions_or">[- OR -#430dffd88d1cffd6323c41282f973443:1]</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_cancel">[Not you?#d9dc2d62540208e05eb8420444e0cac2:1]</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_continue_as">[Continue as %1$s#a5ed1316e3c5cc61714dd85cc846c294:1]</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_title">[Confirm Login#e4c637399f0e14ecf5a1e5808a3c1754:1]</string>
+    <string gender="unknown" name="com_facebook_tooltip_default">[You\'re in control - choose what info you want to share with apps.#1c45c8b5c58cc04ea967c4fa6a048458:1]</string>
+</resources>
