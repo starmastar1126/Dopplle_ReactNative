@@ -1,0 +1,1412 @@
+Hi Silas
+User Avatar
+Do u have the experience of facebook login by firebase auth using the react native?
+Hi, there
+Thank you for reply
+No problem for facebook login by firebase auth using the react native.
+hELLO
+User Avatar
+Hi
+Hi
+User Avatar
+So can u do it
+sure
+User Avatar
+How many time?
+1 day
+least
+User Avatar
+one day???
+12 hours
+User Avatar
+If u have developed before, can do 3 hours
+ok
+please award me and create milestone
+do you want to integrate or new project?
+User Avatar
+I want to know you can do it really
+i have experience about it
+fully experience
+your google account
+?
+plan account?
+don't worry
+User Avatar
+u can make the app by your google account
+new project for facebook login using firebase?
+new project?
+User Avatar
+Yes, only facebook login
+ok
+if you award me and create milestone, i will just start and send result in 3 hours
+User Avatar
+so your budget?
+$50
+User Avatar
+It is over my budget
+so your budget?
+User Avatar
+If u have developed, it is a very easy for you.
+OK, $30
+Do u know what do you need for facebook login?
+User Avatar
+tell me
+sure
+1. google firebase config
+right.
+User Avatar
+and then...
+2. facebook credential
+login facebook and create app id
+User Avatar
+I can give you the app Id and secret key
+register it in firebase
+ok
+i can do it
+Okay
+I will believe you skill.
+I wish we will not waste time each other
+User Avatar
+Okay?
+OK
+Okay
+User Avatar
+so can u start from now?
+sure
+Okayt
+The I will award you the project
+User Avatar
+now
+ok
+please
+Congratulations, your bid has been awarded!
+Click the Accept button below to start working.
+This project has a budget of $30.00 USD and you will be charged a project commission of $5.00 USD on accept.
+Accept
+would you create milestone?
+then i will start
+User Avatar
+why dont u accept ?
+create milestone
+Eduard I. created a milestone
+Milestone: 'project completing'
+Amount: $ 30.00 USD
+User Avatar
+created,
+OK
+send me your facebook info
+User Avatar
+App Secret : 524a8990af73afb9416f6de0c0b4a9e7
+App ID : 1165681403623878
+give me 20 min, i will send first result in 20 mins
+Ah, GOO
+User Avatar
+GOOD
+would you provide facebook dev account?
+User Avatar
+why do you need it?
+paste it to your Facebook Dev Console
+https://athena-ff0d7.firebaseapp.com/__/auth/handler
+User Avatar
+Got it
+
+Capture.PNG
+Capture.PNG
+User Avatar
+Got it
+ok
+User Avatar
+have to set the package name to the com.dopplle.app
+understand
+User Avatar
+Okay
+
+001.PNG
+001.PNG
+
+002.PNG
+002.PNG
+please set it
+User Avatar
+got it.
+ok
+User Avatar
+Hello
+here
+User Avatar
+we have already registered the app
+got it
+User Avatar
+So I will send you the debug key and release key for android
+would you provide app source?
+User Avatar
+Okay
+ok
+User Avatar
+I will send you the project source code
+I am waiting
+i will integrate in your project
+User Avatar
+add the facebook login button on the homepage
+i see
+https://we.tl/t-CKKqW62xtl
+User Avatar
+installed the react-native-fbsdk
+got it
+Okay
+User Avatar
+And in the android/app there is the keystore.jks and debug.keystore
+got it
+Hi
+would you provide your google firebase account
+because I can use my account, but you have to change config again in your side
+understand?
+u can use the your google account
+User Avatar
+I will change the google service file after
+OK
+User Avatar
+GOOD
+question?
+google signIn is working?
+User Avatar
+Only facebook login.
+google signin is working in current project?
+User Avatar
+yes
+OK
+Accepted!
+You're all set to start working
+I have done
+just sec
+I will send video
+User Avatar
+Okay
+
+VID_20191106_200046.mp4
+User Avatar
+Okay will check it
+please
+right?
+wait for me
+now downloaing
+have checked it
+Do u have the facebook info?
+User Avatar
+now video file is good
+my facebook account is blocked
+User Avatar
+But I cant see
+it's work as well
+User Avatar
+okay
+I will send code
+when release milestone
+User Avatar
+But I want to see the video that login succss
+would you provide your facebook account?
+User Avatar
+I think it is easy for you
+my account is blocked now
+sorry
+we use the vk not facebook\
+User Avatar
+.
+what's mean vk?
+give few min
+let me try again
+Okay
+And as u review the google login
+I need the personal info when login the facebook
+User Avatar
+I have to upload the server this infoo
+right
+User Avatar
+understand?
+i have done it
+Really?
+User Avatar
+Perfect
+
+Capture.PNG
+Capture.PNG
+But I cant see the info on the server.
+Okay
+when facebook login is success
+User Avatar
+I need the result on the console
+i don't have account, so i checked yet
+give me few time
+User Avatar
+Okay
+cant you send facebook account?
+User Avatar
+stephanchebyshev7777777@gmail.com
+aiddyr116
+ok
+User Avatar
+try it
+
+003.PNG
+003.PNG
+what do you mean?
+And App id is different that I sent
+User Avatar
+App Secret : 524a8990af73afb9416f6de0c0b4a9e7
+App ID : 1165681403623878
+in your developer.facebook.com
+make landry app public
+"yes"
+understand?
+I can t understand
+why app id is different
+User Avatar
+?
+no worry
+app id
+please your side
+this image is example
+understand?
+User Avatar
+understand
+would you provide your facebook dev account?
+I will set config
+cant share the facebook account
+User Avatar
+sorry
+
+Screenshot_20191106_205216_com.facebook.katana.jpg
+Screenshot_20191106_205216_com.facebook.katana.jpg
+your side, must set config
+Got it
+User Avatar
+tell me what have to set
+https://stackoverflow.com/questions/34760738/app-not-set-up-this-app-is-still-in-development-mode-and-you-dont-have-access
+https://stackoverflow.com/questions/21775198/facebook-api-this-app-is-in-development-mode
+tell me correct content not url
+
+image.png
+image.png
+User Avatar
+This part?
+https://github.com/wpsharks/comment-mail/issues/115
+refer this url
+hit
+sorry
+github url refer
+it's okay?
+Did u login on the facebook?
+no app,
+on the facebook iste
+User Avatar
+site
+just sec
+Hi
+User Avatar
+here
+register test user in your developer.facebook.com
+and public user
+got it
+so I asked you
+User Avatar
+Did you login that i sent now?
+sure
+User Avatar
+send me the screen now
+
+Screenshot_20191106_205216_com.facebook.katana.jpg
+Screenshot_20191106_205216_com.facebook.katana.jpg
+I mean on the facebook site
+User Avatar
+no app
+what do you mean?
+why need app on fb site?
+User Avatar
+I want to confirm the info is correct
+so for it, you must to set config your developer.facebook.com
+understand?
+User Avatar
+Got it
+Did you select "yes" on app review?
+User Avatar
+wait
+?
+User Avatar
+Hi
+here
+User Avatar
+I will send the facebook developer account
+OK
+So have to create the app
+new app on the faceboo
+k
+And pubish
+User Avatar
+And get the app id and app secret key again
+no
+User Avatar
+why?
+will use old
+for you
+User Avatar
+no worry
+ok
+please send me dev account
+I will tell you again
+create the app
+and set the config
+and get the app id and secret key
+Then u can check on your side the app and can test.
+User Avatar
+Okay?
+ok
+User Avatar
+dementyeveduard1@gmail.com
+pcpsyspjk90211
+where is you set config of firebase in your project?
+in the android/app
+download the google service file
+User Avatar
+and put it
+ok
+please send your dev account
+what do you mean?
+I sent the dev account
+dementyeveduard1@gmail.com
+pcpsyspjk90211
+User Avatar
+got it?
+ok
+give me few min
+facebook dev account
+ok
+com.dopplle.app
+register for the android
+User Avatar
+package name
+got it
+User Avatar
+got it?
+yes
+App display name?
+User Avatar
+dopplle
+contact email?
+may i use dev email by contact email?
+User Avatar
+okay
+sorry, i don't know russian.
+do you have anydesk?
+User Avatar
+what do you mean?
+teamviewer or anydesk?
+User Avatar
+u can use the google translate
+OK
+ok
+And I cant understand what you day
+say
+User Avatar
+Do u use the russian on your country?
+sure, use chinese
+Okay
+User Avatar
+So when can u send me the good app?
+give me few min
+i will just send
+User Avatar
+perfect
+sorry, i can't understand russian. please set config on your side. and send me key and id
+sorry
+User Avatar
+use the google translate
+google translate is not correct
+User Avatar
+starange....
+you can set config
+User Avatar
+so cant you do it anymore?
+almost done
+only you set config and send me id and key
+this is easy
+User Avatar
+so use the translate
+OK
+OK
+User Avatar
+I gave you all the info for app developing
+got it
+User Avatar
+But now you .... :white_frowning_face:
+sorry
+give me few time
+i will just fix
+User Avatar
+OKay
+Hi, keyHash?
+send me keyHash?
+for register android, need keyHash
+https://prnt.sc/ptkeao
+see the android/app
+keystore.jks.
+and debug.keystore
+Okay?
+keystore.jks for the releas
+User Avatar
+Really have you experience of it?
+sure, wait few min
+Okay
+I told you the path for debug.keystoren and keystore.jks
+User Avatar
+password:android
+ok
+User Avatar
+ok
+sorry, would you send keyhash? i got wrong keyhash in my side. this is only issue. and then don't worry
+Oops,
+so I asked you
+User Avatar
+about the experience
+enough experience
+no problem
+User Avatar
+But ... :white_frowning_face:
+only keyhash?
+can't you send it?
+User Avatar
+I dont know it
+ok
+just min
+i will get it
+User Avatar
+okay
+only 30min
+User Avatar
+dont worry
+
+VID_20191106_234701.mp4
+please check your server
+User Avatar
+didnt upload the data
+let me try again
+woould you provide firebase account?
+I think it is not relation with the firebase
+my firebase
+User Avatar
+First Iwill check the video file
+check firebase auth database
+User Avatar
+Then ok
+as well?
+User Avatar
+did u set the firebase auth on your side?
+no
+i don't set it
+Then did u get the google service file?
+Then how did u get the google service file?
+User Avatar
+without the setting the firebase
+I don't find service.json
+Then turn on the teamviewr
+User Avatar
+I will login the firebase auth
+OK
+User Avatar
+and will send the google serice file
+OK
+okay
+
+google-services.json
+User Avatar
+First insert the android/ app
+i see
+User Avatar
+And send me the id/password for temaviewer
+1 399 039 728
+5492
+
+image.png
+image.png
+User Avatar
+or anydesk
+ok
+886 095 612
+you didnt set on your firebase auth for facebook?
+User Avatar
+App id and secret key?
+just sec
+sorry, my mistake
+And then have to get the auth ur
+User Avatar
+
+image.png
+image.png
+just sec
+i will send it
+To complete set up, add this OAuth redirect URI to your Facebook app configuration. Learn more \
+User Avatar
+only id and secret key
+i see
+And then will send the url
+User Avatar
+I know you work hardly
+thank you
+User Avatar
+Lets get the good app
+OK
+User Avatar
+Okay
+415849076036260
+871c9810396a78a02ffa426737021233
+please set config
+User Avatar
+AppId and secret key?
+appID: 415849076036260
+secret key:871c9810396a78a02ffa426737021233
+https://dopplle.firebaseapp.com/__/auth/handler
+User Avatar
+I set the id and secret key
+OK
+User Avatar
+Did u put the google service file in the android/app?
+sure
+I sent it
+Okay
+User Avatar
+Then can u test facebook login now?
+just sec
+Okay
+when u are OK, lets try
+User Avatar
+And when the facebook login success, u have to write the result on the console.
+So u can confirm the result
+i see
+Okay
+
+image.png
+image.png
+
+image.png
+image.png
+undrstand?
+User Avatar
+set the url I sent you
+already set
+GOOD
+User Avatar
+Hi
+here
+User Avatar
+How many times I have to wait for u?
+max 30min, min 10min
+User Avatar
+Got it
+question?
+now, google login is working as well in your side?
+User Avatar
+yes, google login is working nw
+after change firebase config, now as well?
+Did u try the google login?
+User Avatar
+just now?
+sure
+But I cant see result
+User Avatar
+onthe firebase and server
+got it
+wait me
+User Avatar
+Hi
+hi
+User Avatar
+any progress?
+your node version?
+User Avatar
+get the result?
+almost
+what do u mean?
+User Avatar
+v10.16.3
+don't worry
+ok
+User Avatar
+Hi
+I will send src
+did u test the app on your side?
+User Avatar
+only facebook login
+yes
+now OKAy?
+User Avatar
+If succss, I have to see the info onthe firebase
+my firebase account
+it's ok
+what do you mean?
+I cant understand it
+User Avatar
+Already registered the facebook id and secret key
+May i rebuild on your side by anydesk
+?
+User Avatar
+I cant understand what you say
+i will send src
+User Avatar
+if your firebase is OK, my firebase have to OK
+i think service.json issue
+or bundle issue
+so i want to build your side
+User Avatar
+So I sent the my service json
+sure
+ok
+just sec
+let me try again
+User Avatar
+Did u set the my service json file?
+sure
+Then have to work the app
+User Avatar
+first google login
+ok
+I gave you the perfect source codes
+User Avatar
+with you
+ok
+
+image.png
+image.png
+
+image.png
+image.png
+User Avatar
+I have just tested the app
+ok
+So now good?
+turn on the anydesk.
+lets try together
+User Avatar
+First check the error on the google login
+thank you
+ok
+turned on anydesk
+User Avatar
+Hello
+hi
+hi
+okay
+User Avatar
+try again
+ok
+google service name is the google-services.json
+right?
+google-services.json
+And this file is that I sent?
+User Avatar
+wiil send again
+thank you
+User Avatar
+
+google-services.json
+hi
+User Avatar
+and put the the above google service file
+first, none google service file
+Got it
+User Avatar
+I will come back here after 30 mins
+ok
+I am here
+User Avatar
+Now Ok?
+yet, some min
+sorry
+don t worry
+User Avatar
+why did u turn off the anydesk?
+sorry
+Anyway I need good result
+Lets try again
+as u told me before it is urgent
+User Avatar
+*As I told you
+fully understand
+few min
+User Avatar
+Got it
+hi
+User Avatar
+here
+just sec
+i will just ping you
+i can see your google firebase console on anydesk?
+User Avatar
+So what do you want?
+connect to you by anydesk and show firebase on your pc?
+User Avatar
+And your side is good?
+firebase has not initialized.
+User Avatar
+got it
+thank you
+would you send your anydesk id?
+774 089 822
+here?
+User Avatar
+Did you see the config?
+yes
+all good
+User Avatar
+i have a question
+let me try again on my side
+sure
+If app is OK on your side,
+User Avatar
+will be ok on my side
+got it
+try again
+hi
+please turn on anydesk
+and google.firebase
+hi
+Hi
+here
+User Avatar
+so what do you want?
+turn firebase on anydesk
+User Avatar
+
+google-services.json
+thank you
+sorry
+turn on anydesk?
+hi
+give me 10 min on anydesk?
+User Avatar
+I cant understand what u need
+only 10 min, coding your pc?
+least 10mins
+so what do you want?
+now.
+firebase?
+User Avatar
+Or else my codes?
+test in your side
+User Avatar
+what test?
+can i test your app on your pc?
+google login
+and fb login
+User Avatar
+got it
+thank you
+facebook login is OK ?
+User Avatar
+on your side?
+code is right
+give me 10 min
+User Avatar
+If code is right? have to work
+on anydsk
+u can ignore google lgoin
+only facebook
+set the config on your firebase
+User Avatar
+and test
+my phone is not supported google service
+so i can not test google login
+understand?
+google login is OK\
+dont worry
+User Avatar
+only facebook login
+least 10 min
+i will integrate fb login in your code on anydesk
+it's possible?
+i can do it within 10 mins
+I cant understand anymore what you say
+I know you can use the VPN on your country
+User Avatar
+why u cant test on the your side?
+sorry so, i can't do more than. please cancel milestone and complete project. sorry for lost your time.
+sorry
+STRESS...
+Then how can send the video file?
+User Avatar
+fake file?
+what do you mean?
+I cant understannnnnnnd
+User Avatar
+u sent me two video files
+sure
+User Avatar
+what do u mean?
+it's work as well
+User Avatar
+Then how can u test the app?
+i will send code
+I think u didnt set the config files
+User Avatar
+on the facebook dev app
+only has been not initialize firebase
+so this problem is occrued
+no no
+the app id and key has been worked at first
+right?
+And then after generate the id and key
+User Avatar
+occur the error
+so, i want to test it on anydesk
+i can't test google login
+google log in????
+or else facebook login
+User Avatar
+OOOPPPS
+
+Capture.PNG
+Capture.PNG
+Then config again to original key and id
+So facebook app and google config is not match
+User Avatar
+got it?
+got it
+but this issue is firebase issue
+i will send the id and key
+App Secret : 524a8990af73afb9416f6de0c0b4a9e7
+App ID : 1165681403623878
+change it
+i will set again to this info
+User Avatar
+got it?
+ok
+User Avatar
+lets go to the first step
+OK
+User Avatar
+I set the facebook auth onthe firebase by above info
+
+screencapture-developers-facebook-apps-415849076036260-settings-basic-2019-11-07-20_48_45.png
+screencapture-developers-facebook-apps-415849076036260-settings-basic-2019-11-07-20_48_45.png
+User Avatar
+I mean dont touch the facebook dev app
+change above app id instead of this app id
+User Avatar
+delete the app
+OK
+I have created the app by this ID
+OOOOPPPPSSSS
+only use it on the app
+right?
+Hey
+User Avatar
+First I sent the app id and key
+right
+right?
+At that time u tested the app
+At that time app is not published yousaid
+right?
+facebook app
+User Avatar
+So I ask you
+just sec
+
+Screenshot_20191107_045923_com.facebook.katana.jpg
+Screenshot_20191107_045923_com.facebook.katana.jpg
+this issue again
+old app is not publish
+hi
+I will tell with client
+User Avatar
+this
+ok
+please
+this is final issue
+User Avatar
+Then other is Okay?
+okay
+i certainly
+Got it
+User Avatar
+and insert the google service json file
+a
+User Avatar
+android/ app
+which file?
+last file?
+just a min
+User Avatar
+I will send you
+OK
+
+google-services.json
+u cant not neccessary for facebook login
+no neccssary for facebook login
+understand?
+Any way insert it
+User Avatar
+and test again
+ok
+If your client public fb app, it'll working well
+just a mins
+will come back 20mins
+User Avatar
+And did u put the google service json file?
+yes
+so working???
+User Avatar
+facebook login ?
+yet
+User Avatar
+yet? or YES???
+yes
+got it
+User Avatar
+Hi
+Hi
+User Avatar
+And then iOS...?
+ios version build?
+User Avatar
+yes
+I can do it too,
+User Avatar
+Okay
+but I am out now, I will come back in 2 hours.
+Then send me the source code now
+User Avatar
+for android
+yes,
+User Avatar
+Okay
+for android version, can you complete this job now?
+User Avatar
+what do you mean?
+https://drive.google.com/open?id=1Sf5eSBwSdQfvFjlFOUW82V5JLDVd-iiq
+User Avatar
+And did you fix which file?
+home.js
+User Avatar
+And then?
+nothing
+User Avatar
+didnt you fix the android directory?
+i added facebook.png in resource
+and then
+User Avatar
+didnt you fix the android directory?
+I will guide on anydesk
+please turn on anydesk
+User Avatar
+got it
+Hi
+for test, send apple dev account
+I have no it
+u can check it on iphone
+And for test, I think it is not necessary
+Hi, any progress?
+User Avatar
+Hi
+almost done
+give me 20 min
+User Avatar
+So did u sleep ?
+what?
+User Avatar
+I sent the message but didnt receive it
+I am on mac now
+Ah, understand
+User Avatar
+So now is good progress
+yes
+few min
+Okay
+I have tested the app in my side
+I didnt get the accessTokenData.accessToken
+So can u show me the iOS version now?
+I want to finish the project too
+I will turn on the anydesk
+User Avatar
+Okay?
+just min
+almost done for ios version
+Okay
+will wait for you.
+User Avatar
+And I know you are working without sleeping
+Sorry, give me 3 hours, power issue for electric. battery is low. sorry so much. i will send good result after 3 hours.
+sorry
+Hi
+I am here
+I will send result in 20 mins
+User Avatar
+Okay
+thank you for wait
+User Avatar
+So result is good?
+yes
+User Avatar
+How can I see the result?
+give me 20mins
+Okay
+Hi Silas
+User Avatar
+I will come back after 3 hours
+hi
+ok
+take your item
+User Avatar
+so can you finish it till that time?
+sure
+User Avatar
+Got it
+i will surely complete at that time
+
+Screen Shot 2019-11-08 at 9.16.26 AM.png
+Screen Shot 2019-11-08 at 9.16.26 AM.png
+
+Screen Shot 2019-11-08 at 9.14.33 AM.png
+Screen Shot 2019-11-08 at 9.14.33 AM.png
+
+Screen Shot 2019-11-08 at 9.14.06 AM.png
+Screen Shot 2019-11-08 at 9.14.06 AM.png
+
+Screen Shot 2019-11-08 at 9.14.44 AM.png
+Screen Shot 2019-11-08 at 9.14.44 AM.png
+
+Screen Shot 2019-11-08 at 9.15.27 AM.png
+Screen Shot 2019-11-08 at 9.15.27 AM.png
+
+Screen Shot 2019-11-08 at 9.15.18 AM.png
+Screen Shot 2019-11-08 at 9.15.18 AM.png
+Hi
+User Avatar
+send me the console screenshot...
+console screenshot?
+what's mean?
+User Avatar
+???
+first image
+get token on console
+this is working as well
+only your client's action
+we need it
+If you complete this job, i will send src
+and kindly i can guide about step
+User Avatar
+send me the project
+would you complete job?
+I worked hardly for you
+User Avatar
+After check it, If it works well I will complete
+I already send android version to you
+and send screenshot for ios version too
+first, would you complete job?
+hi
+User Avatar
+send me the working source code
+https://drive.google.com/open?id=199ttfrqdsCM_o0CNP2J7VNqExEXkDqig
+please check and complete job
+User Avatar
+Don't worry... I will complete job... I have to check... But It's breakfast time...
+sweet breakfast.
+Hi
+User Avatar
+Here?
+Hi
+User Avatar
+Did u get the really get token on console?
+sure
+I already send screen
+User Avatar
+Can u show me the screenshot?
+
+Screen Shot 2019-11-08 at 9.16.26 AM.png
+Screen Shot 2019-11-08 at 9.16.26 AM.png
+Do you want firebase console?
+you can get it after your client's action
+i already said
+User Avatar
+go t it
+functionality logic is as well
+I certainly
+Let's complete job
+User Avatar
+I see
+If it's not working after your client's action, I will guide about it
+User Avatar
+But I didnt get the perfect result
+it's your client mistake
+understand?
+User Avatar
+So understand
+I already sent source both android & ios
+User Avatar
+I see
+iOS + firebase config is complex
+but you told me it is easy
+send me the firebase+IOS config as the doc file
+User Avatar
+The thiings that you have developed ...
+please complete job
+Yes, dont worry
+User Avatar
+I need the doc file
+After complete job
+what do you mean?
+:angry:
+If you want, I will give you codes again
+User Avatar
+you have wasted my time
+no,
+now too...
+User Avatar
+what?
+it's your client mistake
+understand?
+Anyway send me the doc file
+to guide iOS and firebase config
+I cant understand why you have to set the fireabase config again
+Dont fake me
+I am a honest man
+I told you already
+give you the perfect feedback
+But you want the job completeing.
+I cant understand why you are so busy
+I know you have worked to get the good result
+But your state....
+now
+Cancel the milestone
+Can u send the doc file now?
+I am going to finish the job now
+But as you want, I will give you the perfect feedback and onbudget and ontime
+User Avatar
+Here?
+i will send doc after complete. I worked by your requirement until now.
+i will send doc after complete Really?
+User Avatar
+I only want the facebook login
+i am making doc
+another requirement there is no
+But I told you continue, I am a honest man
+User Avatar
+so dont worry
+me too, I am honest
+User Avatar
+But you have to learn a lot of thins
+believe me
+User Avatar
+so How are you going to do now?
+I want to complete this job now
+User Avatar
+Then doc file?
+I will send doc detail after it
+sure
+User Avatar
+Then I dont want the doc file
+I will just send it
+The file is not so important for me
+dont send me
+User Avatar
+Only I saw your stitude
+I was worked hardly for you while almost 30 hours
+only $30
+for it
+And when client is statisfied about the job, have to relelase the everything
+here is rule
+User Avatar
+freelancer.com
+and my project is work as well, because your client's mistake
+User Avatar
+But you are not going to send the doc file
+you didn't provide your client real account.
+so it's not working
+User Avatar
+Dont tell me so
+this is reason that you don't have good result
+User Avatar
+I gave you the facebook dev account
+understand?
+BUt your skill is very poor
+User Avatar
+So didnt run it
+it's not your client's account
+User Avatar
+u can create the facebook app by dev account
+your project is created by your client firebase account
+understand
+User Avatar
+So are you going to fight me continue?
+so it's embeded your client's account config
+understand?
+So are you going to fight me continue?
+User Avatar
+Okay
+no, I don't want to fight to you
+User Avatar
+I will finish the job now
+i am saying about reason.
+I want to complete this job kindly
+Anyway dont tell me anything now
+User Avatar
+I am not so good now
+sorry for my action
+but i was worked hardly as possible
+User Avatar
+Hi
+Hi
+client are going to give me the dev account invitation today
+So will send you it
+Then you can complete the facebook login
+If u have experience , very easy
+now as u told me, almost done
+understand?
+Dont hurry up
+I will give you the perfect feedback and on time and on budget.
+I will not say the above contents anymore
+you can work another job now, And if i send you the invitation, u can finish it soon
+User Avatar
+right?
+ok, i will wait you
+Okay.
+User Avatar
+Really you are a good guy
+08 NOV 2019 · 8:05 PM
+Hi Silas
+client sent me the facebook account
+But didnt send me the password
+So ...
+If client send me the password, will send you
+so if u have any task, work them
+User Avatar
+Okay?
+send me client facebook developer account and password.
+client didnt send me the password
+User Avatar
+So u cant test the app
+so, your mind?
+User Avatar
+if client send me the password, i will contact with you asap
+got it
+User Avatar
+Okay
+09 NOV 2019 · 12:55 AM
+User Avatar
+Hi
+hi
+ijavboovnn_1573141554@tfbnw.net
+User Avatar
+password:Password999$
+
+Capture.PNG
+Capture.PNG
+User Avatar
+Hi
+hi
+User Avatar
+so what about the fb login?
+check above image
+i can't login by client account
+ijavboovnn_1573141554@tfbnw.net
+Did u use it?
+
+image.png
+image.png
+User Avatar
+I cant understand your skill
+image is good
+it's work as well
+what?
+User Avatar
+In now are u developer or am I develoer?
+I already sent good source
+User Avatar
+I am fixing the codes
+which part?
+send me screenshot by code
+please
+i will check it
+please
+now checking
+now result is OK
+now uploading the server
+User Avatar
+send me detail doc the iOS version
+first complete
+User Avatar
+what complete?
+complete this job
+Why arent you going to send me now?
+I dont want it anymore
+I DONT WANT IT ANYMORE
+I DONT WANT IT ANYMORE
+i WILL GIVE YOU THE FEEDBACK
+User Avatar
+NOW
+please
+WAIT
+User Avatar
+:angry:
+i already sent source
+to you
+both android and ios
+i certainly
+it's work as well
+RIGHT,BUT DIDNT SEND ME THE DETAIL DOC
+User Avatar
+SO VERY ANGRY NOW
+first none doc in job description
+only facebook login
+right?
+this is additional requirement
+right?
+User Avatar
+YOU DONT BLAME ME
+for $30
+DONT WANT IT ANYMORE
+WILL GIVE YOU FEEDBACK
+User Avatar
+WIAT
+me too
+Silas J. requested a milestone release
+Milestone: 'project completing'
+Amount: $ 30.00 USD
+CANCEL THE REQUEST NOW
+User Avatar
+WILL RELEASE IT
+please release
+User Avatar
+CANCEL THE REQUEST NOW
+Eduard I. released a milestone
+Milestone: 'project completing'
+Amount: $ 30.00 USD
+thank you
+User Avatar
+SEE YOU LATER
+I gave 5 star to you
+please check
+09 NOV 2019 · 5:21 PM
+Hi
+User Avatar
+Silias
+Hi
+User Avatar
+send me the iOS version doc for facebook login
+ok
+just sec
+User Avatar
+ok
+https://www.youtube.com/watch?reload=9&v=qi1S8k2jsFE
+it's more details
+I want the doc file.
+send me the doc.
+User Avatar
+I have to send it to the client
+it'll good guide.
+Should I make documentation?
+yes, I need it surely
+U have a experience of the facebook login in iOS
+User Avatar
+But I ...
+Ok
+I will send doc in 1 hour
+User Avatar
+Okay good
